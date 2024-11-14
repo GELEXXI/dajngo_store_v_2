@@ -1,0 +1,1 @@
+# dajngo_store_v_2
